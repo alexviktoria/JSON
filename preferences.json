@@ -1,0 +1,12 @@
+{
+	"favorite_movie": "The little Prince",
+        "favorite_TV_series": "Lie To Me",
+        "favorite_food": [
+                "pasta",
+                "manty",
+                "plov",
+                "olivie"
+        ],
+        "favorite_time_year": "summer",
+        "country": "Australia, New Zeland"
+}
